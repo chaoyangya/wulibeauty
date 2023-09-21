@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://beauty.cywhat.cn/</loc>
+    <loc>//beauty.cywhat.cn/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://beauty.cywhat.cn/posts/</loc>
+    <loc>//beauty.cywhat.cn/posts.html</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://beauty.cywhat.cn/archive/</loc>
+    <loc>//beauty.cywhat.cn/archive/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://beauty.cywhat.cn/categories/</loc>
+    <loc>//beauty.cywhat.cn/archive/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://beauty.cywhat.cn/tags/</loc>
+    <loc>//beauty.cywhat.cn/categories.html</loc>
+  </url>
+  
+  <url>
+    <loc>//beauty.cywhat.cn/tags.html</loc>
   </url>
   
 </urlset>

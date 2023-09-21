@@ -1,9 +1,10 @@
-baseURL = "http://beauty.cywhat.cn/"
+baseURL = "//beauty.cywhat.cn"
 relativeURLs = true
 languageCode = "zh-cn"
-title = "美好记录"
+title = "一份甜"
 theme = "huey"
 canonifyurls = true
+uglyURLs = true
 
 [params]
   # General site metadata, used in header and other places
