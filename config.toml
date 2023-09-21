@@ -1,4 +1,5 @@
 baseURL = "http://beauty.cywhat.cn/"
+relativeURLs = true
 languageCode = "zh-cn"
 title = "美好记录"
 theme = "huey"
