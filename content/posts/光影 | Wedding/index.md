@@ -1,12 +1,11 @@
 ---
 title: "光影 | Wedding"
 date: 2023-09-21
-# lastmod: 2021-12-29
 draft: false
 url: /archive/
-type: blog
-description: "Every post should have a great description!"
+type: archive
+description: "这里是光影系列分享"
 ---
 
 
-![Image alt text](/static/images/header.jpg)
+![Image alt text](/images/header.jpg)
