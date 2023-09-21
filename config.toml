@@ -1,0 +1,57 @@
+baseURL = "http://beauty.cywhat.cn/"
+languageCode = "zh-cn"
+title = "美好记录"
+theme = "huey"
+canonifyurls = true
+
+[params]
+  # General site metadata, used in header and other places
+  author = "W & Y"
+  dateFormat = "November 9, 2023"
+  description = "这是一个记录我们幸福片刻的网站, 请不要随意下载&宣传甚至于商业使用."
+  keywords = ""
+  email = "45204307@qq.com"
+
+  # Use your Font Awesome token here. Example token is fake, so please get your own.
+  fontawesomeToken = "7131d5335d"
+
+  # Use content from _index.md on homepage
+   useIndexContent = true # default is false
+
+  # Navigation, use Bulma options here
+  # navbarStyle = "is-transparent" # Default is "is-transparent"
+  # navbarTitleStyle = "has-text-black" # Default is "has-text-black"
+
+  # # Override Bulma schemes with values
+  # schemeMain = "" # Change background color, default is white
+  # link = "#000" # Bulma default is blue, though theme is black
+  # linkHover = "#888" # Bulma default is grey-darker, though theme is #888
+  # footerBackgroundColor = "false" # Bulma default is #fafafa. You can use "false" or #hex
+  # navbarItemHoverColor = "#444" # Bulma default is blue, though theme is #444
+  # navbarItemColor = "#888" # Bulma default is grey-dark, though theme is #888
+
+  # Set static directory locations and favicon
+  favicon = "favicon.ico"
+  staticDir = ['static']
+
+
+[menu]
+
+# Top Navigation
+[[menu.nav]]
+  identifier = 'home'
+  name = 'Home'
+  title = 'Home'
+  url = '/'
+  weight = 10
+
+[[menu.nav]]
+  identifier = 'archive'
+  name = 'Archive'
+  title = "Archive"
+  url = '/archive/'
+  weight = 20
+
+[outputs]
+  home = ['HTML', 'RSS']
+  pages = ['HTML']
