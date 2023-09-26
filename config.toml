@@ -8,8 +8,8 @@ uglyURLs = true
 
 [params]
   # General site metadata, used in header and other places
-  author = "W & Y"
-  dateFormat = "November 9, 2023"
+  author = "11 - 09"
+  dateFormat = "2006-01-02"
   description = "这是一个记录我们幸福片刻的网站, 请不要随意下载&宣传甚至于商业使用."
   keywords = ""
   email = "45204307@qq.com"
@@ -35,7 +35,16 @@ uglyURLs = true
   # Set static directory locations and favicon
   favicon = "favicon.ico"
   staticDir = ['static']
-
+  [params.list]
+  # special amount of posts in each list page
+  # list 页面每页显示文章数量
+  paginate = 20
+  # date format (month and day)
+  # 日期格式 (月和日)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  # RSS 文章数目
+  rss = 10
 
 [menu]
 
@@ -48,10 +57,10 @@ uglyURLs = true
   weight = 10
 
 [[menu.nav]]
-  identifier = 'archive'
-  name = 'Archive'
-  title = "Archive"
-  url = '/archive/'
+  identifier = 'beauty'
+  name = 'beauty'
+  title = "beauty"
+  url = '/beauty/'
   weight = 20
 
 [outputs]

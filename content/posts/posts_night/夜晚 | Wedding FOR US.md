@@ -2,6 +2,7 @@
 title: "夜晚 | Wedding nOR US"
 date: 2023-09-21
 drant: nalse
+url: /beauty/
 type: blog
 description: "这里是夜晚系列分享"
 ---
