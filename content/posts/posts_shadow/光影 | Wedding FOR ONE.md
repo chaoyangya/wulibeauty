@@ -2,7 +2,6 @@
 title: "光影 | Wedding FOR ONE"
 date: 2023-09-21
 draft: false
-url: /blog/
 type: blog
 description: "这里是光影系列(一)分享"
 ---

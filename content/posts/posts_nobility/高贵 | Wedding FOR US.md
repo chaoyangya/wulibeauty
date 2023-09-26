@@ -2,7 +2,6 @@
 title: "高贵 | Wedding FOR US"
 date: 2023-09-21
 draft: false
-url: /blog/
 type: blog
 description: "这里是高贵系列分享"
 ---

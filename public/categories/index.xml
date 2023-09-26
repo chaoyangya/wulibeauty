@@ -5,10 +5,6 @@
     <link>//beauty.cywhat.cn/categories.html</link>
     <description>Recent content in Categories on 一份甜</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    
-	<atom:link href="//beauty.cywhat.cn/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-cn</language><atom:link href="//beauty.cywhat.cn/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

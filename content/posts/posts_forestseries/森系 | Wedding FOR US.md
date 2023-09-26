@@ -2,7 +2,6 @@
 title: "森系 | Wedding FOR US"
 date: 2023-09-21
 draft: false
-url: /blog/
 type: blog
 description: "这里是森系系列分享"
 ---

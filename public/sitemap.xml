@@ -1,44 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>//beauty.cywhat.cn/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//beauty.cywhat.cn/posts.html</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//beauty.cywhat.cn/blog/</loc>
+  </url><url>
+    <loc>//beauty.cywhat.cn/posts/posts_shadow/%E5%85%89%E5%BD%B1-wedding-for-one.html</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//beauty.cywhat.cn/blog/</loc>
+  </url><url>
+    <loc>//beauty.cywhat.cn/posts/posts_forestseries/%E6%A3%AE%E7%B3%BB-wedding-for-us.html</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//beauty.cywhat.cn/blog/</loc>
+  </url><url>
+    <loc>//beauty.cywhat.cn/posts/posts_nobility/%E9%AB%98%E8%B4%B5-wedding-for-us.html</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//beauty.cywhat.cn/blog/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//beauty.cywhat.cn/categories.html</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//beauty.cywhat.cn/tags.html</loc>
   </url>
-  
 </urlset>
