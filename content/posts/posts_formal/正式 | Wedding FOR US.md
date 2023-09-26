@@ -1,6 +1,6 @@
 ---
 title: "正式 | Wedding FOR US"
-date: 2023-09-21
+date: 2023-09-26
 draft: false
 type: blog
 description: "这里是正式系列分享"
