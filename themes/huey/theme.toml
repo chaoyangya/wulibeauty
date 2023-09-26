@@ -1,0 +1,12 @@
+name = "Huey"
+license = "MIT"
+licenselink = "https://github.com/chaoyangya/wulibeauty.git/master/"
+description = "Huey is a minimal blog theme which uses the Bulma CSS framework"
+homepage = "https://beauty.cywhat.cn/"
+tags = ["blog", "light", "minimalist", "bulma", "blog"]
+features = ["responsive", "blog", "beauty", "social"]
+min_version = "0.80.0" # Only tested with Hugo 0.80.0
+
+[author]
+  name = "W & Y"
+  homepage = "https://beauty.cywhat.cn/"
